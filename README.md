@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RossFloodJobs
 - 👀 I’m interested in all things Automation. 
 - 🌱 I’m currently learning Ansible, Terraform, React Native Typescript please pardon the space, I am working to upload currently.
-- 💞️ I’m looking to collaborate on automation tools, video games, rocking out in a band.
+- 💞️ I’m looking to collaborate on automation tools, video games.
 - 📫 How to reach me rossfloodjobs@gmail.com
 
 <!---
